@@ -36,6 +36,6 @@
 cmake-build-debug
 build/unix/CMakeFiles
 cmake_install.cmake
-CMakeChache.txt
+CMakeCache.txt
 *.exe
 Makefile
